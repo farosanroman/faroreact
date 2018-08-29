@@ -1,0 +1,837 @@
+{
+    "centros":
+[
+    {
+      "id": 0,
+      "nombre": "COLEGIO DE EDUCACIÒN INTEGRAL DOCTOR RAUL LEONIS",
+      "latlng": [
+        -66.96723,
+        10.53164
+      ]
+    },
+    {
+      "id": 1,
+      "nombre": "UNIDAD EDUCATIVA STELLA MATUTINA",
+      "latlng": [
+        -66.89446,
+        10.5054
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "ESCUELA BÁSICA DOCTOR ENRIQUE DELGADO PALACIOS",
+      "latlng": [
+        -66.9031,
+        10.47553
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "LICEO BOLIVARIANO PEDRO EMILIO COLL",
+      "latlng": [
+        -66.92489,
+        10.45352
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": " UNIDAD EDUCATIVA NACIONAL CAYAURIMA",
+      "latlng": [
+        -65.06181,
+        10.05106
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": " COLEGIO EL CARMELO",
+      "latlng": [
+        -67.44298,
+        10.18218
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": " ESCUELA  BOLIVARIANA NACIONAL EL MARQUEZ",
+      "latlng": [
+        -66.37777,
+        10.28514
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "UNIDAD EDUCATIVA JULIAN OJEDA",
+      "latlng": [
+        -66.46606,
+        10.16273
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": null,
+      "latlng": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "UNIDAD EDUCATIVA ROSA HENRRIQUEZ DE BANDRES",
+      "latlng": [
+        -66.31808,
+        10.42822
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "UNIDAD EDUCATIVA ARGELIA LAYA",
+      "latlng": [
+        -66.36314,
+        10.27871
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "UNIDAD EDUCATIVA ARGELIA LAYA",
+      "latlng": [
+        -66.36314,
+        10.27871
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL RAFAEL AREVALO GONZALEZ",
+      "latlng": [
+        -66.10032,
+        10.4838
+      ]
+    },
+    {
+      "id": 13,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL RAFAEL AREVALO GONZALEZ",
+      "latlng": [
+        -66.10032,
+        10.4838
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "ESCUELA BASICA CARMEN HELENA SOTO DE TERAN",
+      "latlng": [
+        -66.10032,
+        10.4838
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "UNIDAD EDUCATIVA ESTADAL INDALECIA MEJIA GARCIA",
+      "latlng": [
+        -66.10032,
+        10.4838
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "UNIVERSIDAD PEDAGOGICA ARGELIA LAYA",
+      "latlng": [
+        -66.10032,
+        10.4838
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "UNIVERSIDAD PEDAGOGICA ARGELIA LAYA",
+      "latlng": [
+        -66.10032,
+        10.4838
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "UNIDAD EDUCATIVA BARLOVENTO",
+      "latlng": [
+        -66.15051,
+        10.39589
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "UNIDAD EDUCATIVA ESTADAL MATURIN",
+      "latlng": [
+        -66.15051,
+        10.39589
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "GRUPO ESCOLAR SIMON BOLIVAR",
+      "latlng": [
+        -67.07182,
+        10.27815
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "COLEGIO SAGRADO CORAZON DE JESUS",
+      "latlng": [
+        -67.12056,
+        10.26724
+      ]
+    },
+    {
+      "id": 22,
+      "nombre": "ATENEO LOS TEQUES ANTIGUA QUINTA SAN JOSE",
+      "latlng": [
+        -67.07182,
+        10.27815
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "UNIDAD EDUCATIVA EL ENCANTO",
+      "latlng": [
+        -67.07182,
+        10.27815
+      ]
+    },
+    {
+      "id": 24,
+      "nombre": "UNIDAD EDUCATIVA ESTADAL JUAN BAUTISTA ARISMENDI",
+      "latlng": [
+        -67.06113,
+        10.35174
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "(**) UNIDAD EDUCATIVA NACIONAL LUIS CORREA",
+      "latlng": [
+        -67.06113,
+        10.35174
+      ]
+    },
+    {
+      "id": 26,
+      "nombre": " UNIDAD EDUCATIVA NACIONAL CARMEN ROSALES GOMEZ",
+      "latlng": [
+        -67.07182,
+        10.27815
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "INSTITUTO NACIONAL DE CAPACITACION Y EDUCACION SOCIALISTA",
+      "latlng": [
+        -67.06113,
+        10.35174
+      ]
+    },
+    {
+      "id": 28,
+      "nombre": "CENTRO DE EDUCACION INICIAL NACIONAL  EZEQUIEL ZAMORA PREESCOLAR",
+      "latlng": [
+        -66.66215,
+        10.22644
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "ESCUELA BASICA NACIONAL PEDRO VICENTE NU EZ",
+      "latlng": [
+        -66.70367,
+        10.25801
+      ]
+    },
+    {
+      "id": 30,
+      "nombre": " ESCUELA BASICA NACIONAL CARTANAL  VICENTE EMILIO  SOJO",
+      "latlng": [
+        -66.70367,
+        10.25801
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "GRUPO ESCOLAR ALBERTO SMITH",
+      "latlng": [
+        -66.77307,
+        10.12294
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "GRUPO ESCOLAR ALBERTO SMITH",
+      "latlng": [
+        -66.77307,
+        10.12294
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": " UNIDAD EDUCATIVA COLEGIO TOMAS LANDER",
+      "latlng": [
+        -66.72699,
+        10.0876
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "CENTRO DE EDUCACION INICIAL BOLIVARIANO SENDERO DE LUZ",
+      "latlng": [
+        -66.72699,
+        10.0876
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "CONCENTRACION ESCOLAR SIN NUMERO GUAYAMURAL",
+      "latlng": [
+        -66.70198,
+        10.04869
+      ]
+    },
+    {
+      "id": 36,
+      "nombre": " GRUPO ESCOLAR RAFAEL AREVALO GONZALEZ",
+      "latlng": [
+        -65.97588,
+        10.31793
+      ]
+    },
+    {
+      "id": 37,
+      "nombre": " GRUPO ESCOLAR RAFAEL AREVALO GONZALEZ",
+      "latlng": [
+        -65.97588,
+        10.31793
+      ]
+    },
+    {
+      "id": 38,
+      "nombre": " GRUPO ESCOLAR RAFAEL AREVALO GONZALEZ",
+      "latlng": [
+        -65.97588,
+        10.31793
+      ]
+    },
+    {
+      "id": 39,
+      "nombre": "CONCENTRACION ESTADAL BOLIVARIANA LOS MEDANOS",
+      "latlng": [
+        -65.99993,
+        10.07044
+      ]
+    },
+    {
+      "id": 40,
+      "nombre": "UNIDAD EDUCATIVA  JUANA TERESA HERRERA",
+      "latlng": [
+        -66.66561,
+        10.31744
+      ]
+    },
+    {
+      "id": 41,
+      "nombre": "ESCUELA RURAL NACIONAL BOLIVARIANA INES MARIA BOLIVAR",
+      "latlng": [
+        -66.66419,
+        10.31021
+      ]
+    },
+    {
+      "id": 42,
+      "nombre": "ESCUELA RURAL NACIONAL BOLIVARIANA INES MARIA BOLIVAR",
+      "latlng": [
+        -66.66419,
+        10.31021
+      ]
+    },
+    {
+      "id": 43,
+      "nombre": " COLEGIO SAN NICOLAS DE BARI",
+      "latlng": [
+        -66.63866,
+        10.47115
+      ]
+    },
+    {
+      "id": 44,
+      "nombre": " GRUPO ESCOLAR MENCA DE LEONI I",
+      "latlng": [
+        -66.63095,
+        10.45362
+      ]
+    },
+    {
+      "id": 45,
+      "nombre": " ESCUELA BASICA ANDRES BELLO",
+      "latlng": [
+        -66.63095,
+        10.45362
+      ]
+    },
+    {
+      "id": 46,
+      "nombre": " UNIVERSIDAD METROPOLITANA",
+      "latlng": [
+        -66.79716,
+        10.47731
+      ]
+    },
+    {
+      "id": 47,
+      "nombre": " UNIVERSIDAD METROPOLITANA",
+      "latlng": [
+        -66.79716,
+        10.47731
+      ]
+    },
+    {
+      "id": 48,
+      "nombre": " COLEGIO SAN JOSE",
+      "latlng": [
+        -66.79194,
+        10.46935
+      ]
+    },
+    {
+      "id": 49,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL LICEO MARIANO PICON SALAS",
+      "latlng": [
+        -66.79716,
+        10.47731
+      ]
+    },
+    {
+      "id": 50,
+      "nombre": "(**) CENTRO DE EDUCACION INICIAL PRE-ESCOLAR CINTHIA ROSEMBERG",
+      "latlng": [
+        -66.799,
+        10.47667
+      ]
+    },
+    {
+      "id": 51,
+      "nombre": "COLEGIO MARIA AUXILIADORA",
+      "latlng": [
+        -66.83783,
+        10.50555
+      ]
+    },
+    {
+      "id": 52,
+      "nombre": " ESCUELA TECNICA POPULAR DON BOSCO",
+      "latlng": [
+        -66.83783,
+        10.50555
+      ]
+    },
+    {
+      "id": 53,
+      "nombre": "ESCUELA BASICA NACIONAL CRISTOBAL ROJAS",
+      "latlng": [
+        -66.89085,
+        10.16068
+      ]
+    },
+    {
+      "id": 54,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL EZEQUIEL ZAMORA",
+      "latlng": [
+        -66.89085,
+        10.16068
+      ]
+    },
+    {
+      "id": 55,
+      "nombre": "CENTRO EDUCATIVO INICIAL EULALIA BUROZ",
+      "latlng": [
+        -66.89085,
+        10.16068
+      ]
+    },
+    {
+      "id": 56,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL JOSE DE SAN MARTIN",
+      "latlng": [
+        -66.89085,
+        10.16068
+      ]
+    },
+    {
+      "id": 57,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL CUA",
+      "latlng": [
+        -66.89085,
+        10.16068
+      ]
+    },
+    {
+      "id": 58,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL RAFAEL URDANETA",
+      "latlng": [
+        -66.905,
+        10.16811
+      ]
+    },
+    {
+      "id": 59,
+      "nombre": " ESCUELA ESTADAL SANTA MARIA GORETTI",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 60,
+      "nombre": "(**) COLEGIO SAN MARTIN DE PORRES",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 61,
+      "nombre": "ESCUELA EL INGENIO",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 62,
+      "nombre": "CENTRO DE EDUCACION INICIAL MANUELITA SAENZ",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 63,
+      "nombre": " COLEGIO PACARIGUA II",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 64,
+      "nombre": " COLEGIO PACARIGUA II",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 65,
+      "nombre": " COLEGIO ROMULO BETANCOURT",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 66,
+      "nombre": "COLEGIO PACAIRIGUA",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 67,
+      "nombre": "COMPLEJO EDUCATIVO ARTISTICO",
+      "latlng": [
+        -66.50316,
+        10.46586
+      ]
+    },
+    {
+      "id": 68,
+      "nombre": "UNIDAD EDUCATIVA PRIVADA NUESTRA SEÑORA DE LA COROMOTO",
+      "latlng": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 69,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL JUAN ESPANA",
+      "latlng": [
+        -66.8488,
+        10.2417
+      ]
+    },
+    {
+      "id": 70,
+      "nombre": " INSTITUTO DE EDUCACION ESPECIAL VIRGEN DEL CARMEN",
+      "latlng": [
+        -66.86094,
+        10.23707
+      ]
+    },
+    {
+      "id": 71,
+      "nombre": "OBRA DEL BUEN CONSEJO",
+      "latlng": [
+        -66.94886,
+        10.37166
+      ]
+    },
+    {
+      "id": 72,
+      "nombre": "OBRA DEL BUEN CONSEJO",
+      "latlng": [
+        -66.94886,
+        10.37166
+      ]
+    },
+    {
+      "id": 73,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL MIGUEL JOSE SANZ",
+      "latlng": [
+        -66.94886,
+        10.37166
+      ]
+    },
+    {
+      "id": 74,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL MIGUEL JOSE SANZ",
+      "latlng": [
+        -66.94886,
+        10.37166
+      ]
+    },
+    {
+      "id": 75,
+      "nombre": "UNIDAD EDUCATIVA ESTADAL BOLIVARIANA NUESTRA SEÑORA DE LOS DOLORES",
+      "latlng": [
+        -66.94886,
+        10.37166
+      ]
+    },
+    {
+      "id": 76,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL BOLIVARIANA FILOMENA ANTONIA PALMA DE CASTRO",
+      "latlng": [
+        -66.94886,
+        10.37166
+      ]
+    },
+    {
+      "id": 77,
+      "nombre": "ESCUELA BÁSICA LANDER",
+      "latlng": [
+        -65.99633,
+        10.2995
+      ]
+    },
+    {
+      "id": 78,
+      "nombre": " ESCUELA FRAY JOSE ZAPICO",
+      "latlng": [
+        -65.99633,
+        10.2995
+      ]
+    },
+    {
+      "id": 79,
+      "nombre": "ESCUELA BASICA NACIONAL CHACAO",
+      "latlng": [
+        -66.74263,
+        10.18153
+      ]
+    },
+    {
+      "id": 80,
+      "nombre": "PARADOR TURISTICO SAN FRANCISCO DE YARE",
+      "latlng": [
+        -66.74263,
+        10.18153
+      ]
+    },
+    {
+      "id": 81,
+      "nombre": "UNIDAD EDUCATIVA ESTADAL BENITA RIBAS TORO",
+      "latlng": [
+        -66.74263,
+        10.18153
+      ]
+    },
+    {
+      "id": 82,
+      "nombre": "UNIDAD EDUCATIVA COLEGIO LA CONCEPCION",
+      "latlng": [
+        -66.88007,
+        10.48103
+      ]
+    },
+    {
+      "id": 83,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL FRANCISCO ESPEJO",
+      "latlng": [
+        -66.83049,
+        10.47486
+      ]
+    },
+    {
+      "id": 84,
+      "nombre": "UNIDAD EDUCATIVA PRIVADA VIRGEN DE LA CONSAGRACIÓN",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 85,
+      "nombre": "UNIDAD EDUCATIVA PRIVADA VIRGEN DE LA CONSAGRACIÓN",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 86,
+      "nombre": "UNIDAD  EDUCATIVA NACIONAL JOSE  MANUEL ALVAREZ",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 87,
+      "nombre": "UNIDAD  EDUCATIVA NACIONAL JOSE  MANUEL ALVAREZ",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 88,
+      "nombre": "LICEO MANUEL MARIA VILLALOBOS",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 89,
+      "nombre": "INSTITUTO MADRE ISABEL",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 90,
+      "nombre": "UNIDAD EDUCATIVA COLEGIO VALLE ALTO",
+      "latlng": [
+        -66.99459,
+        10.349
+      ]
+    },
+    {
+      "id": 91,
+      "nombre": "UNIDAD EDUCATIVA COLEGIO BASICA MUNICIPAL CARLOS SOUBLETTE",
+      "latlng": [
+        -66.85464,
+        10.50108
+      ]
+    },
+    {
+      "id": 92,
+      "nombre": " UNIDAD EDUCATIVA EL LIBERTADOR",
+      "latlng": [
+        -66.85464,
+        10.50108
+      ]
+    },
+    {
+      "id": 93,
+      "nombre": " UNIDAD EDUCATIVA EL LIBERTADOR",
+      "latlng": [
+        -66.85464,
+        10.50108
+      ]
+    },
+    {
+      "id": 94,
+      "nombre": "UNIDAD EDUCATIVA BASICA MUNICIPAL JUAN DE DIOS GUANCHE",
+      "latlng": [
+        -66.85075,
+        10.50619
+      ]
+    },
+    {
+      "id": 95,
+      "nombre": " COLEGIO SCHONTHAL",
+      "latlng": [
+        -66.85464,
+        10.50108
+      ]
+    },
+    {
+      "id": 96,
+      "nombre": "CENTRO MEDICO CARLOS DIEZ DEL INSTITUTO VENEZOLANO DE SEGURO SOCIAL CHACAO",
+      "latlng": [
+        -66.85464,
+        10.50108
+      ]
+    },
+    {
+      "id": 97,
+      "nombre": "COLEGIO CANIGUA",
+      "latlng": [
+        -66.83636,
+        10.4233
+      ]
+    },
+    {
+      "id": 98,
+      "nombre": "ESCUELA BASICA MAMPORAL",
+      "latlng": [
+        -66.10714,
+        10.37022
+      ]
+    },
+    {
+      "id": 99,
+      "nombre": "LICEO BOLIVARIANO ALMIRANTE LUIS BRION",
+      "latlng": [
+        -66.10714,
+        10.37022
+      ]
+    },
+    {
+      "id": 100,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL CUPIRA",
+      "latlng": [
+        -65.6979,
+        10.16184
+      ]
+    },
+    {
+      "id": 101,
+      "nombre": "UNIDAD EDUCATIVA NACIONAL CUPIRA",
+      "latlng": [
+        -65.6979,
+        10.16184
+      ]
+    },
+    {
+      "id": 102,
+      "nombre": "ESCUELA NACIONAL BOLIVARIANA BARTOLOME BLANDIN",
+      "latlng": [
+        -65.6979,
+        10.16184
+      ]
+    },
+    {
+      "id": 103,
+      "nombre": "ESCUELA BASICA BOLIVARIANA LA CALCETA",
+      "latlng": [
+        -66.66419,
+        10.31021
+      ]
+    }
+  ]
+}

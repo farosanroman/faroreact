@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Van Dorn Street",
+          "marker-color": "#0000ff",
+          "marker-symbol": "rail-metro",
+          "line": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -66.90528, 10.50308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Franconia-Springfield",
+          "marker-color": "#0000ff",
+          "marker-symbol": "rail-metro",
+          "line": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -66.90628, 10.50408
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Federal Center SW",
+          "marker-color": "#0000ff",
+          "marker-symbol": "rail-metro",
+          "line": "blue"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -66.90728, 10.50508
+          ]
+        }
+      }
+     
+    ]
+  }
