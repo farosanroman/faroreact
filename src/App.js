@@ -67,7 +67,7 @@ class App extends Component {
     
   }
   onPopupClose(e) {
-     console.log("App:popupclosesss  ")
+     console.log("App:popupclose  ")
      //console.log(e)
       this.setState({popupInfo2:{"coordinates":[0,0],"nombre":"oJo","error":"sin error"}})
       
