@@ -10,7 +10,7 @@ import './App.css';
 import {centros} from './data/todosroles.json';
 import {tendencias,roles} from './data/tablas.json';
 import {observadores} from './data/observadores.json';
-
+//https://www.youtube.com/watch?v=I7WfxhF2wEg
 
 //https://medium.com/@to_pe/deploying-create-react-app-on-microsoft-azure-c0f6686a4321
 //npm run build  
@@ -67,7 +67,7 @@ class App extends Component {
     
   }
   onPopupClose(e) {
-     console.log("App:popupclos ")
+     console.log("App:popupclo ")
      //console.log(e)
       this.setState({popupInfo2:{"coordinates":[0,0],"nombre":"oJo","error":"sin error"}})
       
