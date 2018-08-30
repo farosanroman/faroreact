@@ -14,12 +14,12 @@ import {observadores} from './data/observadores.json';
 
 //https://medium.com/@to_pe/deploying-create-react-app-on-microsoft-azure-c0f6686a4321
 //npm run build  
-//console.log(roles)
+//console.log(rolessss)
 const TOKEN="pk.eyJ1IjoiZmFyb21hcGJveCIsImEiOiJjamt6amF4c3MwdXJ3M3JxdDRpYm9ha2pzIn0.V8cqmZH6dFIcxtKoaWcZZw"
 const Map = MapGL({
   accessToken: TOKEN
 });
-const polygon = [[10.516082,-66.949286], [10.517082,-66.959286], [10.517082,-66.953286]]
+const polygon = [[10.516082,-66.94928], [10.517082,-66.959286], [10.517082,-66.953286]]
 //const CENTROS={centros}
 const markersId=[1,2,3]
 
@@ -67,7 +67,7 @@ class App extends Component {
     
   }
   onPopupClose(e) {
-     console.log("App:popupclose ")
+     console.log("App:popupclosesss  ")
      //console.log(e)
       this.setState({popupInfo2:{"coordinates":[0,0],"nombre":"oJo","error":"sin error"}})
       
